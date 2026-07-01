@@ -76,7 +76,7 @@ export const experiences = [
         company_name: "DOLE Bicol RO5",
         icon: doleBicol,
         iconBg: "#f3f7ff",
-        date: "July 2025 - August 2026",
+        date: "July 2025 - Present",
         points: [
             "Developing and maintaining web applications using Laravel and other related technologies.",
             "Building mobile-focused features and interfaces with Flutter to support accessible, responsive government service workflows.",
